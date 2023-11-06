@@ -9,4 +9,6 @@ featuredpost: true
 featuredimage: /img/captura-de-pantalla-2020-11-26-a-las-23.58.12.png
 tags: []
 ---
+![](/img/captura-de-pantalla-2020-11-26-a-las-23.58.12.png)
+
 Este año tuve el grandísimo honor de quedar en primera posición en el test de conocimientos que se hizo durante el evento. ¡Conquistando el trofeo a mejor SEO del año!
