@@ -8,7 +8,8 @@ description: Este año volveré a formar parte del grupo de profesores que
   sus conocimientos.
 featuredpost: false
 featuredimage: /img/1669984835650.jpeg
-tags: []
+tags:
+  - SEO
 ---
 ![](/img/1669984835650.jpeg)
 
