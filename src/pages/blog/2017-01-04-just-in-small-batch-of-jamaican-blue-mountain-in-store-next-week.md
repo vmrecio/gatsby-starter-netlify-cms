@@ -7,7 +7,8 @@ description: El SEOnthebeach es un evento que se celebra todos los años en la
   mayores profesionales del sector.
 featuredpost: true
 featuredimage: /img/captura-de-pantalla-2020-11-26-a-las-23.58.12.png
-tags: []
+tags:
+  - SEO
 ---
 ![](/img/captura-de-pantalla-2020-11-26-a-las-23.58.12.png)
 
