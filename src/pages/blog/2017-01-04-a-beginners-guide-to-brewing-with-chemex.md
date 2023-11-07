@@ -19,3 +19,5 @@ Es un curso dirigido a profesionales que desean mejorar su nivel de conocimiento
 Y es que a pesar de que ya llevamos muchos años hablando del SEO, éste, lejos de simplificarse, cada vez es más complejo. El SEO es actualización constante, y un reto al que los profesionales deben adaptarse para seguir consiguiendo resultados.
 
 Si estabas buscando ir un paso más allá en el sector del SEO, ¡aquí tienes tu curso!
+
+R﻿eserva tu plaza [aqui](https://kschool.com/cursos/curso-seo/)
