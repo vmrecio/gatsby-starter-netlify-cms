@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Víctor Recio
 image: /img/home-jumbotron.jpg
 heading: Víctor Recio
 subheading: SEO & Fullstack developer
